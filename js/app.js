@@ -1,5 +1,5 @@
     var body = document.body;
-    var cor = 'red';
+    var cor = '#282828';
 
     var mudaCor = function(alvo, cor){
         alvo.style.color = cor;
