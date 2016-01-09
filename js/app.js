@@ -6,5 +6,3 @@
     }
 
     mudaCor(body, cor);
-
-        alert("Jota Maximo");
